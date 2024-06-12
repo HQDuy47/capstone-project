@@ -1,6 +1,5 @@
 # Capstone Project – Clone ITViec  
 **HCM University of Science**  
-**March 2024 – May 2024**
 
 ## Project Overview
 Developed a tech-focused job search platform where job seekers browse listings and apply, while employers post openings and manage recruitment.
